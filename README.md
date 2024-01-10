@@ -1,3 +1,22 @@
+# petshop
+
+An online petshop platform
+
+
+## Screenshots
+
+![image](https://github.com/n1ranam/petshop/assets/110462325/7c239c2b-9846-41bf-9833-22d179bc1c0a)
+
+![image](https://github.com/n1ranam/petshop/assets/110462325/1140aca2-f86a-4c1e-9458-49340c7f36a8)
+
+![image](https://github.com/n1ranam/petshop/assets/110462325/e49ad0f2-e79c-455e-8533-521362e2e604)
+
+![image](https://github.com/n1ranam/petshop/assets/110462325/3a30f769-c742-48d7-9555-09e672393748)
+
+
+
+## 🛠 Skills
+ HTML, CSS, JAVASCRIPT, REACT...
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,22 +87,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# petshop
 
-An online petshop platform
-
-
-## Screenshots
-
-![image](https://github.com/n1ranam/petshop/assets/110462325/7c239c2b-9846-41bf-9833-22d179bc1c0a)
-
-![image](https://github.com/n1ranam/petshop/assets/110462325/1140aca2-f86a-4c1e-9458-49340c7f36a8)
-
-![image](https://github.com/n1ranam/petshop/assets/110462325/e49ad0f2-e79c-455e-8533-521362e2e604)
-
-![image](https://github.com/n1ranam/petshop/assets/110462325/3a30f769-c742-48d7-9555-09e672393748)
-
-
-
-## 🛠 Skills
- HTML, CSS, JAVASCRIPT, REACT...

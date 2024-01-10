@@ -75,8 +75,6 @@ An online petshop platform
 
 ## Screenshots
 
-http://localhost:3002/slide
-
 ![image](https://github.com/n1ranam/petshop/assets/110462325/7c239c2b-9846-41bf-9833-22d179bc1c0a)
 
 ![image](https://github.com/n1ranam/petshop/assets/110462325/1140aca2-f86a-4c1e-9458-49340c7f36a8)
